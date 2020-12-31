@@ -49,10 +49,21 @@ select{
   
 }
 
-@media (min-width: 866px)
+@media (max-width: 866px)
 .input-group {
        
     width: 50%;
      margin: auto;
 }
+
+.outer-cover-data{
+    display: flex;
+    margin-left: 0;
+    margin-top: 10%;
+    justify-content : center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
 }
