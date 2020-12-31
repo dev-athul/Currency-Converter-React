@@ -49,7 +49,7 @@ select{
   
 }
 
-@media (max-width: 866px)
+@media (max-width: 866px) {
 .input-group {
        
     width: 50%;
