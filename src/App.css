@@ -21,7 +21,7 @@ h1{
 }
 input{
     line-height: 1.2;
-    width: 70%;
+    width: 100%;
     font-size: 30px;
     
     display: inline;
@@ -31,6 +31,7 @@ select{
     font-size: 36px;
     position: relative;
     bottom: 10px;
+    margin-left: 10px;
 
 }
 .equals{
